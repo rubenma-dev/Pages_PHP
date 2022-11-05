@@ -1,2 +1,0 @@
-Descomprime los archivos zip image e image_2 y pegar el contenido en una carpeta llamada "image" y pegar esa carpeta
-dentro del proyecto llamado "proyectotesina".
